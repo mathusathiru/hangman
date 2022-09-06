@@ -1,3 +1,3 @@
 # hangman
 
-Two player hangman game handling words and phrases
+A two player hangman game handling words and phrases. 
